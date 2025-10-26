@@ -52,7 +52,7 @@ Using real brain atlas + connectivity + networks to constrain deep learning, con
 ## 🎓 Principal Investigator
 
 **Prof. Yu Zhang, Ph.D.**
-- Associate Professor (Tenure-Track) & Doctoral Supervisor
+- Tenured Associate Professor & Doctoral Supervisor
 - National High-Level Young Talent
 - Ph.D. from Institute of Automation, Chinese Academy of Sciences
 - Postdoctoral training at Julich Research Center (Germany), McGill University (Canada), and Université de Montréal (Canada)

@@ -7,16 +7,13 @@ description: "Meet our team members and principal investigator."
 
 ---
 
-## 👨‍🔬 Principal Investigator
+## Principal Investigator
 
-### **Prof. Yu Zhang, Ph.D.**
-
-**Associate Professor (Tenure-Track) & Doctoral Supervisor**  
-**School of Psychology, Shanghai Jiao Tong University**
-
-📧 **Email**: yuzhang2@sjtu.edu.cn  
-🌐 **Links**: [Google Scholar](https://scholar.google.ca/citations?user=lZwQ9mgAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/zhang-yu-52380349/)  
-🏛️ **Lab**: Brain Atlas and Brain-Inspired AI Laboratory
+**Prof. Yu Zhang**  
+National Young Talent  
+**Tenured Associate Professor & Doctoral Supervisor**  
+School of Psychology, Shanghai Jiao Tong University  
+📧 Email: yuzhang2@sjtu.edu.cn
 
 ---
 
@@ -137,7 +134,7 @@ University of Science and Technology of China, Hefei, China
 
 ### Work Experience
 
-**Associate Professor (Tenure-Track) & Doctoral Supervisor** (Sept 2025 - Present)  
+**Tenured Associate Professor & Doctoral Supervisor** (Sept 2025 - Present)  
 School of Psychology, Shanghai Jiao Tong University, Shanghai, China  
 *Role*: Founder and PI of Brain Atlas and Brain-Inspired AI Laboratory
 
