@@ -1,0 +1,123 @@
+{{/* Enhanced Language Switcher */}}
+{{ if .IsTranslated }}
+<div class="language-switcher">
+  <button class="lang-toggle" aria-label="Switch language">
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="2" y1="12" x2="22" y2="12"></line>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+    </svg>
+    <span class="current-lang">{{ .Language.LanguageName }}</span>
+  </button>
+  
+  <ul class="lang-menu">
+    {{ range .Translations }}
+    <li>
+      <a href="{{ .RelPermalink }}" lang="{{ .Lang }}" hreflang="{{ .Language.LanguageCode }}">
+        {{ .Language.LanguageName }}
+        <span class="lang-code">({{ .Lang | upper }})</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+
+<style>
+.language-switcher {
+  position: relative;
+  display: inline-block;
+}
+
+.lang-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.lang-toggle:hover {
+  background-color: #e9ecef;
+  border-color: #adb5bd;
+}
+
+.lang-toggle svg {
+  color: #007bff;
+}
+
+.current-lang {
+  font-weight: 500;
+}
+
+.lang-menu {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 0.5rem;
+  padding: 0.5rem 0;
+  list-style: none;
+  background-color: white;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  min-width: 150px;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s ease;
+  z-index: 1000;
+}
+
+.language-switcher:hover .lang-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.lang-menu li {
+  margin: 0;
+}
+
+.lang-menu a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  color: #212529;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.lang-menu a:hover {
+  background-color: #f8f9fa;
+  color: #007bff;
+}
+
+.lang-code {
+  font-size: 0.75rem;
+  color: #6c757d;
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .lang-toggle {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+  }
+  
+  .current-lang {
+    display: none;
+  }
+  
+  .lang-menu {
+    right: auto;
+    left: 0;
+  }
+}
+</style>
+{{ end }}

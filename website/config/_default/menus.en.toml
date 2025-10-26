@@ -1,6 +1,4 @@
-# Main Menu Configuration
-# For language-specific menus, see menus.en.toml and menus.zh.toml
-
+# English Menu Configuration
 [[main]]
   name = "Home"
   url = "/"

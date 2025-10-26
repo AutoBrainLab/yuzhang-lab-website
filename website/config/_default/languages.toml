@@ -5,10 +5,10 @@
   languageCode = "en-us"
   languageName = "English"
   weight = 1
-  title = "Yuzhang Neuro+AI Lab"
+  title = "Yu Zhang Lab - Brain Atlas and Brain-Inspired AI"
   
   [en.params]
-    description = "Reverse-engineering intelligent algorithms, fostering global talent, and advancing NeuroAI frontiers."
+    description = "Brain Atlas and Brain-Inspired AI Laboratory led by Prof. Yu Zhang at Shanghai Jiao Tong University. Research in brain mapping, multimodal neuroimaging, brain development, and computational neuroscience."
 
 [zh]
   languageCode = "zh-cn"
@@ -17,4 +17,4 @@
   title = "张瑜 脑图谱与类脑智能实验室"
   
   [zh.params]
-    description = "全生命周期人脑图谱绘制、脑图谱大数据分析与建模、脑科学与人工智能交叉研究。"
+    description = "上海交通大学心理学院脑图谱与类脑智能实验室，由国家高层次青年人才张瑜教授领衔。研究方向：全生命周期脑图谱绘制、脑图谱大数据分析与建模、脑科学与人工智能交叉。"

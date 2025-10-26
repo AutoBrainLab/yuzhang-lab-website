@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Lang }}" dir="{{ .Language.LanguageDirection | default "ltr" }}">
+<head>
+  {{ partial "site_head" . }}
+</head>
+<body>
+  {{ partial "site_header" . }}
+  
+  <main id="main-content">
+    {{ partial "breadcrumb" . }}
+    
+    {{ block "main" . }}{{ end }}
+  </main>
+  
+  {{ partial "site_footer" . }}
+  {{ partial "back-to-top" . }}
+  {{ partial "site_scripts" . }}
+</body>
+</html>

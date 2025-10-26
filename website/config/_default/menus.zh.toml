@@ -1,0 +1,35 @@
+# Chinese Menu Configuration (中文菜单配置)
+[[main]]
+  name = "主页"
+  url = "/zh/"
+  weight = 1
+
+[[main]]
+  name = "研究方向"
+  url = "/zh/research/"
+  weight = 2
+
+[[main]]
+  name = "团队成员"
+  url = "/zh/people/"
+  weight = 3
+
+[[main]]
+  name = "研究成果"
+  url = "/zh/publications/"
+  weight = 4
+
+[[main]]
+  name = "新闻动态"
+  url = "/zh/news/"
+  weight = 5
+
+[[main]]
+  name = "研究资源"
+  url = "/zh/resources/"
+  weight = 6
+
+[[main]]
+  name = "加入我们"
+  url = "/zh/join-us/"
+  weight = 7
