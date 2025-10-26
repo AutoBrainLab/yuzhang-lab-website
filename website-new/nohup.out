@@ -1,0 +1,24 @@
+WARN  skipping template file "/home/hyf/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/blox-seo@v0.2.3/layouts/_default/_markup/sitemap.xml": unrecognized render hook template
+Watching for changes in /home/hyf/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/{blox-bootstrap,blox-plugin-decap-cms@v0.1.2-0.20231108143325-448ed0e3bd2b,blox-plugin-netlify@v1.1.2-0.20240509231741-c3d23d929bc6}
+Watching for changes in /mnt/data/hyf/yu_lab/website-new/{assets,content,layouts,static}
+Watching for config changes in /mnt/data/hyf/yu_lab/website-new/config/_default, /home/hyf/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/blox-plugin-decap-cms@v0.1.2-0.20231108143325-448ed0e3bd2b/config.yaml, /home/hyf/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/blox-plugin-netlify@v1.1.2-0.20240509231741-c3d23d929bc6/config.yaml, /home/hyf/.cache/hugo_cache/modules/filecache/modules/pkg/mod/github.com/!hugo!blox/hugo-blox-builder/modules/blox-bootstrap/v5@v5.9.8-0.20241012174104-661cadc17327/hugo.yaml, /mnt/data/hyf/yu_lab/website-new/go.mod
+Start building sites … 
+hugo v0.152.2-6abdacad3f3fe944ea42177844469139e81feda6+extended linux/amd64 BuildDate=2025-10-24T15:31:49Z VendorInfo=snap:0.152.2
+
+
+                  │ EN  │ ZH 
+──────────────────┼─────┼────
+ Pages            │ 172 │ 66 
+ Paginator pages  │   2 │  0 
+ Non-page files   │   2 │  1 
+ Static files     │  14 │ 14 
+ Processed images │   8 │  0 
+ Aliases          │  23 │ 12 
+ Cleaned          │   0 │  0 
+
+Built in 1040 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/yuzhang-lab-website/ (bind address 0.0.0.0) 
+Press Ctrl+C to stop

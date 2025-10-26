@@ -1,0 +1,18 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+en:
+  languageCode: en-us
+  title: Yu Zhang Lab - Brain Atlas and Brain-Inspired AI
+  params:
+    description: Brain Atlas and Brain-Inspired AI Laboratory led by Prof. Yu Zhang at Shanghai Jiao Tong University
+
+# Chinese language configuration
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 张瑜实验室 - 脑图谱与类脑智能
+  params:
+    description: 上海交通大学张瑜教授领导的脑图谱与类脑智能实验室

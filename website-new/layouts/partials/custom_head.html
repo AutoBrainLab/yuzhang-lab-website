@@ -1,0 +1,6 @@
+{{/* Custom CSS for accordion and other enhancements */}}
+{{ $custom_css := resources.Get "css/custom.css" }}
+{{ if $custom_css }}
+  {{ $custom_css_minified := $custom_css | minify }}
+  <link rel="stylesheet" href="{{ $custom_css_minified.RelPermalink }}">
+{{ end }}

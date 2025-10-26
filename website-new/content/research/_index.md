@@ -1,0 +1,353 @@
+---
+title: "Research"
+description: "Brain atlas across the lifespan, big data analysis and modeling, brain science and AI intersection research."
+date: 2025-10-26T00:00:00+08:00
+lastmod: 2025-10-26T00:00:00+08:00
+---
+
+<p class="lead text-muted mb-4">
+Our lab focuses on <strong>brain atlas mapping and brain-inspired AI</strong> - integrating neuroscience with artificial intelligence to understand brain mechanisms and develop next-generation AI systems.
+</p>
+
+---
+
+<div class="accordion accordion-flush" id="researchAccordion">
+
+<!-- Research Direction 1: Brain Atlas -->
+<div class="accordion-item border">
+<h2 class="accordion-header" id="headingAtlas">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAtlas" aria-expanded="true" aria-controls="collapseAtlas">
+<span class="fs-5"><strong>🧠 Brain Atlas Across the Lifespan</strong></span>
+</button>
+</h2>
+<div id="collapseAtlas" class="accordion-collapse collapse show" aria-labelledby="headingAtlas" data-bs-parent="#researchAccordion">
+<div class="accordion-body">
+        
+<p class="lead text-muted">
+          Combining multimodal brain imaging and connectomics to map the human brain from birth to aging, through development and disease.
+</p>
+
+<h4 class="mt-4">🎯 Research Goals</h4>
+<ul>
+<li><strong>Fine Functional Parcellation</strong>: Mapping precise functional boundaries using multimodal neuroimaging</li>
+<li><strong>Spatiotemporal Evolution</strong>: Quantifying brain changes across developmental, aging, and disease cohorts</li>
+<li><strong>Individualized Brain Models</strong>: Constructing personalized networks for clinical intervention targets</li>
+</ul>
+
+<h4 class="mt-4">🔬 Key Technologies</h4>
+<div class="row">
+<div class="col-md-6">
+<ul>
+<li>Multimodal brain imaging (sMRI, fMRI, dMRI, MEG)</li>
+<li>Connectomics and network analysis</li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul>
+<li>Longitudinal cohort studies</li>
+<li>Individual-level brain parcellation</li>
+</ul>
+</div>
+</div>
+
+<h4 class="mt-4">🏥 Clinical Applications</h4>
+<div class="row">
+<div class="col-md-4">
+<div class="card border-primary mb-3">
+<div class="card-body text-center">
+<i class="fas fa-child fa-2x text-primary mb-2"></i>
+<h6>Developmental Disorders</h6>
+<p class="small text-muted">Diagnosis & intervention</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card border-warning mb-3">
+<div class="card-body text-center">
+<i class="fas fa-user-clock fa-2x text-warning mb-2"></i>
+<h6>Neurodegenerative Diseases</h6>
+<p class="small text-muted">Early detection</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card border-success mb-3">
+<div class="card-body text-center">
+<i class="fas fa-pills fa-2x text-success mb-2"></i>
+<h6>Precision Medicine</h6>
+<p class="small text-muted">Personalized treatment</p>
+</div>
+</div>
+</div>
+</div>
+
+<h4 class="mt-4">📊 Representative Work</h4>
+<ul>
+<li><strong>Li et al. (2025)</strong>. Topographic organization of human brain networks. <em>Nature Neuroscience</em>.</li>
+<li><strong>Zhang et al. (2023)</strong>. Association between brain connectivity and cognitive functions. <em>Science Bulletin</em>.</li>
+</ul>
+
+</div>
+</div>
+</div>
+
+<!-- Research Direction 2: Big Data -->
+<div class="accordion-item border">
+<h2 class="accordion-header" id="headingBigData">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBigData" aria-expanded="false" aria-controls="collapseBigData">
+<span class="fs-5"><strong>📊 Brain Atlas Big Data & Foundation Models</strong></span>
+</button>
+</h2>
+<div id="collapseBigData" class="accordion-collapse collapse" aria-labelledby="headingBigData" data-bs-parent="#researchAccordion">
+<div class="accordion-body">
+        
+<p class="lead text-muted">
+          Building an integrated brain atlas big data platform to train foundation models for neuroscience research.
+</p>
+
+<h4 class="mt-4">🎯 Platform Features</h4>
+<div class="row">
+<div class="col-md-4">
+<div class="card h-100 border-info">
+<div class="card-body">
+<h6><i class="fas fa-database text-info"></i> One-Stop Integration</h6>
+<p class="small">Unified platform for multimodal brain atlas data</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card h-100 border-info">
+<div class="card-body">
+<h6><i class="fas fa-project-diagram text-info"></i> Cross-Modal Data</h6>
+<p class="small">Structural, functional, molecular, genetic</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card h-100 border-info">
+<div class="card-body">
+<h6><i class="fas fa-layer-group text-info"></i> Multi-Scale Analysis</h6>
+<p class="small">Molecular to systems-level organization</p>
+</div>
+</div>
+</div>
+</div>
+
+<h4 class="mt-4">🤖 Foundation Models for Neuroscience</h4>
+<ul>
+<li><strong>Large-Scale Training</strong>: AI models on brain atlas big data</li>
+<li><strong>Cognitive Simulation</strong>: Brain function prediction and modeling</li>
+<li><strong>Disease Modeling</strong>: Progression prediction and treatment responses</li>
+<li><strong>Drug Discovery</strong>: Treatment optimization through AI</li>
+</ul>
+
+<h4 class="mt-4">🔬 Research Applications</h4>
+<div class="alert alert-info">
+<ul class="mb-0">
+<li>Brain cognitive function simulation</li>
+<li>Disease progression prediction</li>
+<li>Drug discovery and optimization</li>
+<li>Population-level brain mapping</li>
+</ul>
+</div>
+
+<h4 class="mt-4">📊 Representative Work</h4>
+<ul>
+<li><strong>Ma et al. (2024)</strong>. BAINet: Brain-inspired AI network architecture. <em>NeuroImage</em>.</li>
+<li><strong>Zhang et al. (2025)</strong>. Connectome-based modeling of human cognition. <em>Cerebral Cortex</em>.</li>
+</ul>
+
+</div>
+</div>
+</div>
+
+<!-- Research Direction 3: Brain-Inspired AI -->
+<div class="accordion-item border">
+<h2 class="accordion-header" id="headingAI">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAI" aria-expanded="false" aria-controls="collapseAI">
+<span class="fs-5"><strong>🤖 Brain Science & AI Intersection</strong></span>
+</button>
+</h2>
+<div id="collapseAI" class="accordion-collapse collapse" aria-labelledby="headingAI" data-bs-parent="#researchAccordion">
+<div class="accordion-body">
+        
+<p class="lead text-muted">
+          Using real brain atlas, connectivity, and network data to constrain and inspire deep learning architectures, creating a closed-loop "structure-function-behavior" framework.
+</p>
+
+<h4 class="mt-4">🧠 Brain-Constrained AI</h4>
+<ul>
+<li><strong>Anatomical Constraints</strong>: Real brain connectivity designing neural network architectures</li>
+<li><strong>Functional Guidance</strong>: Brain functional organization improving AI models</li>
+<li><strong>Biologically Plausible Learning</strong>: Algorithms inspired by brain mechanisms</li>
+</ul>
+
+<h4 class="mt-4">🔬 Research Focus Areas</h4>
+        
+<div class="row mt-3">
+<div class="col-md-4">
+<div class="card border-primary h-100">
+<div class="card-body">
+<h6><i class="fas fa-language text-primary"></i> Language Processing</h6>
+<ul class="small">
+<li>Language network mapping</li>
+<li>Brain-inspired language models</li>
+<li>Semantic processing neural basis</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card border-success h-100">
+<div class="card-body">
+<h6><i class="fas fa-brain text-success"></i> Memory Systems</h6>
+<ul class="small">
+<li>Memory encoding/retrieval</li>
+<li>Hippocampal-neocortical interactions</li>
+<li>AI systems with brain-like memory</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card border-warning h-100">
+<div class="card-body">
+<h6><i class="fas fa-route text-warning"></i> Decision-Making</h6>
+<ul class="small">
+<li>Dopamine modulation</li>
+<li>Value-based choice modeling</li>
+<li>Behavioral economics applications</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<h4 class="mt-4">🌟 Toward Explainable AGI</h4>
+<div class="row">
+<div class="col-md-4">
+<div class="alert alert-success">
+<h6><i class="fas fa-lightbulb"></i> Explainability</h6>
+<p class="small mb-0">AI models grounded in neurobiology</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="alert alert-info">
+<h6><i class="fas fa-sync-alt"></i> Evolvability</h6>
+<p class="small mb-0">Adapt and learn like biological brains</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="alert alert-warning">
+<h6><i class="fas fa-shield-alt"></i> Robustness</h6>
+<p class="small mb-0">Resilient to perturbations</p>
+</div>
+</div>
+</div>
+
+<h4 class="mt-4">📊 Representative Work</h4>
+<ul>
+<li><strong>Yang et al. (2025)</strong>. Identifying cognitive states using graph neural networks. <em>eLife</em>.</li>
+<li><strong>Zhang et al. (2025)</strong>. Connectome-based modeling of human cognition. <em>Cerebral Cortex</em>.</li>
+</ul>
+
+</div>
+</div>
+</div>
+
+</div>
+
+---
+
+## 🌟 Research Philosophy
+
+<div class="row mt-4">
+<div class="col-md-4">
+<div class="card border-primary h-100">
+<div class="card-body text-center">
+<i class="fas fa-arrow-right fa-2x text-primary mb-3"></i>
+<h5>From Brain to AI</h5>
+<p class="small text-muted">Use neuroscience discoveries to build better AI systems</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card border-success h-100">
+<div class="card-body text-center">
+<i class="fas fa-arrow-left fa-2x text-success mb-3"></i>
+<h5>From AI to Brain</h5>
+<p class="small text-muted">Apply AI tools to understand brain function</p>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="card border-info h-100">
+<div class="card-body text-center">
+<i class="fas fa-hospital fa-2x text-info mb-3"></i>
+<h5>Clinical Translation</h5>
+<p class="small text-muted">Bridge basic research to clinical applications</p>
+</div>
+</div>
+</div>
+</div>
+
+---
+
+## 🏆 Research Impact
+
+<div class="row mt-4">
+<div class="col-md-3 text-center mb-3">
+<div class="display-4 text-primary">40+</div>
+<p class="text-muted">Publications in High-Impact Journals</p>
+</div>
+<div class="col-md-3 text-center mb-3">
+<div class="display-4 text-success">3,800+</div>
+<p class="text-muted">Citations</p>
+</div>
+<div class="col-md-3 text-center mb-3">
+<div class="display-4 text-warning">46</div>
+<p class="text-muted">National Patents (China)</p>
+</div>
+<div class="col-md-3 text-center mb-3">
+<div class="display-4 text-danger">8</div>
+<p class="text-muted">International Patents</p>
+</div>
+</div>
+
+---
+
+## 🤝 Collaborations
+
+<div class="alert alert-info">
+<h5><i class="fas fa-globe"></i> Global Partnerships</h5>
+<div class="row">
+<div class="col-md-6">
+<ul class="mb-0">
+<li><strong>Julich Research Center</strong> (Germany)</li>
+<li><strong>McGill University</strong> (Canada)</li>
+</ul>
+</div>
+<div class="col-md-6">
+<ul class="mb-0">
+<li><strong>Université de Montréal</strong> (Canada)</li>
+<li><strong>Chinese Academy of Sciences</strong> (China)</li>
+</ul>
+</div>
+</div>
+</div>
+
+---
+
+## 💡 Join Our Research
+
+<div class="alert alert-success text-center">
+<h5><i class="fas fa-users"></i> We're Hiring!</h5>
+<p class="mb-3">Looking for talented researchers passionate about brain atlas and brain-inspired AI</p>
+<a href="/yuzhang-lab-website/join-us/" class="btn btn-success">View Open Positions →</a>
+</div>
+
+---
+
+<div class="text-center text-muted">
+<p><small><i class="fas fa-calendar"></i> Last updated: October 26, 2025</small></p>
+</div>

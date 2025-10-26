@@ -1,0 +1,17 @@
+{{/* Custom footer to override theme default and remove "Powered by Hugo Blox" */}}
+
+<footer class="site-footer">
+
+  {{/* Copyright notice */}}
+  {{ with site.Params.footer.copyright }}
+    {{ with .notice }}
+    <p class="powered-by text-center">
+      {{ replace (replace . "{year}" now.Year) "{month}" (int now.Month) }}
+    </p>
+    {{ end }}
+  {{ end }}
+
+  {{/* Remove the "Powered by Hugo Blox Builder" section completely */}}
+  {{/* Original theme adds promotional content here, we skip it */}}
+
+</footer>

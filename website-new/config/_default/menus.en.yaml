@@ -1,0 +1,23 @@
+# English Navigation Menu
+main:
+  - name: Home
+    url: /en/
+    weight: 1
+  - name: Research
+    url: /en/research/
+    weight: 2
+  - name: People
+    url: /en/people/
+    weight: 3
+  - name: Publications
+    url: /en/publications/
+    weight: 4
+  - name: News
+    url: /en/news/
+    weight: 5
+  - name: Resources
+    url: /en/resources/
+    weight: 6
+  - name: Join Us
+    url: /en/join-us/
+    weight: 7

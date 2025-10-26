@@ -1,0 +1,5 @@
+# Development environment configuration
+# This file is used when running: hugo server -D
+# It overrides settings in hugo.yaml for local development
+
+baseURL: 'http://localhost:1313/yuzhang-lab-website/'
