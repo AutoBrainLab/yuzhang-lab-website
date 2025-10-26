@@ -15,10 +15,14 @@
   url = "/publications/"
   weight = 4
 [[main]]
+  name = "News"
+  url = "/news/"
+  weight = 5
+[[main]]
   name = "Resources"
   url = "/resources/"
-  weight = 5
+  weight = 6
 [[main]]
   name = "Join Us"
   url = "/join-us/"
-  weight = 6
+  weight = 7

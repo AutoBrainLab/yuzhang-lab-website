@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://autobrainlab.github.io/yuzhang-lab-website/sitemap.xml
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /.git/

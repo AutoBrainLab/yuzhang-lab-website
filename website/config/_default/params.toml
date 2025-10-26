@@ -42,8 +42,43 @@ site_type = "Organization"
 local_business_type = "Research Institute"
 description = "Research Laboratory at the intersection of Neuroscience and Artificial Intelligence"
 
-# SEO
+# SEO Configuration
 [marketing.seo]
 site_type = "Organization"
 local_business_type = "Research Institute"
-org_name = "Yuzhang Neuro+AI Lab"
+org_name = "Yu Zhang Lab - Brain Atlas and Brain-Inspired AI"
+description = "Brain Atlas and Brain-Inspired AI Laboratory led by Prof. Yu Zhang at Shanghai Jiao Tong University. Research in brain mapping, multimodal neuroimaging, brain development across the lifespan, and computational neuroscience."
+keywords = ["brain atlas", "neuroimaging", "brain development", "brain-inspired AI", "computational neuroscience", "fMRI", "brain mapping", "multimodal imaging", "graph neural networks"]
+twitter = ""  # Add Twitter handle if available
+image = "images/logo/logo-square.png"  # Default sharing image
+
+# Academic and Social Links
+[contact]
+email = "yuzhang2@sjtu.edu.cn"
+phone = ""
+address = "School of Psychology, Shanghai Jiao Tong University, Shanghai, China"
+
+[contact.links]
+  [[contact.links.list]]
+  name = "Google Scholar"
+  url = ""  # Add Google Scholar profile URL
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  
+  [[contact.links.list]]
+  name = "GitHub"
+  url = "https://github.com/AutoBrainLab"
+  icon = "github"
+  icon_pack = "fab"
+  
+  [[contact.links.list]]
+  name = "ORCID"
+  url = ""  # Add ORCID URL
+  icon = "orcid"
+  icon_pack = "ai"
+  
+  [[contact.links.list]]
+  name = "ResearchGate"
+  url = ""  # Add ResearchGate URL
+  icon = "researchgate"
+  icon_pack = "ai"
