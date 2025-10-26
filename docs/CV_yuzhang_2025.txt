@@ -1,0 +1,354 @@
+Yu Zhang, Ph.D.
+Zhejiang Lab (phase I), Zhongtai Street, Yuhang District,
+Hangzhou, Zhejiang Province, China
+Website: https://www.linkedin.com/in/zhang-yu-52380349/
+Google Scholar: https://scholar.google.ca/citations?user=lZwQ9mgAAAAJ&hl=en
+Email: yuzhang2bic@gmail.com
+
+Tel: +86 15286979081
+
+Short Bio: Dr. Zhang is an accomplished researcher with over 40 scientific publications in high-impact
+journals (Science Bulletin, Neurology, Medical Image Analysis, eLife, Journal of Neuroscience, Cerebral
+Cortex, NeuroImage, and IEEE TNNLS), garnering 3,800+ citations. She has been recognized with prestigious
+awards, including the National Outstanding Young Talents Award (2023) and Hangzhou Young Talent
+Award (2022), highlighting her exceptional contributions to the field. With over 6 years of international
+research experience, she has worked at leading institutions such as the Julich Research Center (Germany),
+McGill University (Canada), and the University of Montreal (Canada). Her current research focuses on
+NeuroAI, integrating neuroscience with artificial intelligence to advance brain imaging, cognitive modeling,
+and brain-machine interfaces. Key areas of expertise include pretrained models for brain imaging, brain
+encoding and decoding, brain simulation, neuromodulation of human cognition, semantic mapping of vision
+and memory functions, and the development of brain atlases.
+Education and Work experience
+Zhejiang Lab, Hangzhou, China
+
+October 2020 - Present
+
+Principal Investigator, Leader of the “Multimodal Neuroimaging Analysis” team
+Project #1: Brain mechanisms of the Human Memory Systems, founded by Zhejiang Lab
+Project #2: Graph-based modeling for multimodal neuroimaging analysis, founded by Zhejiang Lab
+Project #3: Semantic Atlas of the Human Brain using Graph Neural Networks, founded by NSFC
+Project #4: Data analysis and modeling of Human Brain Atlases, founded by Science and Technology Innovation 2030
+Project #5: A multicenter MRI study of children and adolescents, founded by Science and Technology Innovation 2030
+
+CRIUGM, DIRO, Université de Montréal, Montréal, Canada
+Awarded by IVADO Postdoctoral Fellowship
+Postdoctoral Fellow supervised by Dr. Pierre Bellec
+
+March 2018 - July 2020
+October 2017 – October 2020
+
+Project #1: Functional annotation of human cognitive states using deep graph convolution
+Project #2: Interoperable and transferable brain decoding using graph convolutional networks
+Project #3: Benchmarking CPU vs GPU training of deep artificial neural networks for decoding brain activity
+
+Montreal Neurological Institute, McGill University, Montreal, Canada
+Postdoctoral Fellow supervised by Dr. Alain Dagher
+
+March 2015 – October 2017
+
+Project #1: Dopamine depletion promotes loss aversion in ventral striatum
+Project #2: Anatomical and Functional Organization of Human Substantia Nigra
+Project #3: Reduced Mesocorticolimbic Connectivity in Humans with DCC Haplotype
+
+Yu Zhang, Ph.D.
+
+CV - Page 1
+
+Institute of Automation, Chinese Academy of Sciences, Beijing, China
+Ph.D. in Computational Medicine supervised by Prof. Tianzi Jiang
+
+Sept. 2009 – Jan. 2015
+
+Thesis: Connectivity-based analysis of human language areas
+Project #1: Anatomical Parcellation of Human Brain using Structural Covariance
+Project #2: Robust Brain Parcellation using Sparse Representation on resting-state fMRI
+Project #3: Cross-cultural consistency and diversity in Intrinsic Functional Organization of Broca's Region
+
+Neuroscience and Medicine (INM-1), Research Center Jülich, Germany.
+Exchange Student, supervised by Prof. Katrin Amunts
+
+Jan. 2012 – June 2012
+
+Awarded by DAAD Short-Term Scholarship
+Project #1: Connectivity-based Parcellation of Human Insular cortex and Broca’s region
+
+University of Science and Technology of China, Hefei, Anhui, China
+B.Sc. in Engineering, Automation (Top 10%; GPA: 3.73)
+
+Sept. 2005 – July 2009
+
+Thesis: Speech Recognition using GMM model
+
+Research Interests
+✧ NeuroAI: to bridge neuroscience research with AI techniques
+✧ Brain-inspired artificial intelligence models; Pretrained models for human cognitive functions
+✧ Medical imaging analysis using machine learning and AI
+✧ Integration of multi-modal and multi-omics in Neurodevelopment and Neurodegeneration.
+✧ Dopamine modulation on decision-making, obesity, impulsivity and addiction.
+
+Awards & Scholarships
+✧ National Outstanding Young Talent Initiative (2023)
+✧ Hangzhou (West Lake Ming Zhu) Young Talent Initiative (2022)
+✧ Neuroimage Editor's Choice Award (2021)
+✧ IVADO Postdoctoral Fellow (2018-2020)
+✧ Michael J Fox Foundation scholarship (2015-2017)
+✧ DAAD short-term scholarship for exchanging study in Germany (2012)
+✧ Paper nominations and Travel Awards: OHBM Oral (2024); McGill HBHL (2020); MAIN (2019); NeurIPS
+(2019); CCN Travel Awards (2019); MDRC Travel Awards (2016); OHBM Metric Travel Awards (2013)
+✧ Scholarships as a Ph.D student, including Second Class Award of year 2013, and Merit Student of 2012.
+✧ Scholarships during undergrad, including National Encouragement Scholarship in 2007, Model Student of
+Academic Records in University of Science and Technology of China in 2006, and Zhongzhi Zhang
+Individual Scholarship in 2008.
+
+Yu Zhang, Ph.D.
+
+CV - Page 2
+
+Tutorials and Education courses:
+✧ Brain encoding and encoding models using GNNs @ OHBM2023 Education course on “NeuroAI”
+✧ Graph Laplacian and Graph Convolutional Networks @ OHBM2020 (Organization for Human Brain
+Mapping https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3885) Education course on “Deep
+Learning for Human Brain Mapping”
+✧ Graph Convolutional Networks and Applied to fMRI Decoding @ Montreal AI & Neuroscience 2019
+(MAIN http://www.crm.umontreal.ca/2019/MAIN2019/index_e.php) Tutorial on Deep Learning
+https://github.com/zhangyu2ustc/gcn_tutorial_test
+
+Invited Talks:
+✧ Chair/co-chair “Intelligent Computing Symposium on Neuroscience-2024” and “ Digital Twin Brain Forum”
+✧ Brain Atlas constrained modeling of human cognitive functions @ BME2023, Suzhou, China
+✧ Graph-based modeling of cognitive functions @ CSIG2022, Chengdu, China
+✧ Connectome-constrained neural modeling of human Cognitive functions @ VALSE 2021, Hangzhou, China
+✧ Modeling Brain Dynamics of Human Cognition using Graphs: Graph Laplacian and Graph Convolutional
+Network @ IAMI 2020, Taiyuan, China
+✧ Modelling Brain Dynamics of Human Cognition using Graphs @ Montreal Neurological Institute, McGill
+University on Dec. 2nd, 2019, Montreal, Canada slides
+✧ Modeling brain dynamics of Human Cognition using Graph Convolutional Networks @ UNIQUE 1st
+Scientific Day on Nov. 17th, 2019, Montreal, Canada
+✧ Anatomical and Functional Organization of Human Substantia Nigra @ Brenda Milner Neuropsychology Day
+in May 2017, Montreal, Canada
+
+Oral presentations:
+✧ Li S et al. Zhang Y* and Jiang T. (2024) Cognitive map-like representations of semantic structure during
+movie watching. Oral Presentation at 2024 Organization for Human Brain Mapping, Seoul, Korea.
+✧ Zhang Y, and Bellec P. (2020) Interoperable and generalizable Brain decoding using deep graph
+convolutions. Oral Presentation at 2020 McGill HBHL Research Day, Montreal, Canada
+✧ Zhang Y, and Bellec P. (2019) Functional Annotation of Human Cognitive States using Graph Convolution
+Networks. Oral Presentation at 2019 NeurIPS Neuro-AI workshop, Vancouver, Canada
+✧ Zhang Y, Tetrel L, and Bellec P. Benchmarking CPU vs GPU training of deep artificial neural networks for
+decoding brain activity. Oral Presentation at 2019 Montreal AI & Neuroscience, Montreal, Canada
+✧ Zhang Y, Bellec P. (2019). Functional Decoding using Convolutional Networks on Brain Graphs. Oral
+Presentation at 2019 Conference on Cognitive Computational Neuroscience (CCN2019), Berlin, Germany
+✧ Zhang Y, Larcher K, Misic B, Dagher A. (2017). Anatomical and Functional Organization of Human
+Substantia Nigra. Trainee Platform Presentations at 20th Annual Brenda Milner Lecture & Neuropsychology
+Day, Montreal, Canada
+Yu Zhang, Ph.D.
+
+CV - Page 3
+
+✧ Zhang Y, Fan L, Caspers S, Amunts K, & Jiang T. (2013). Convergent functional organization of Broca’s
+area across multi-sites rs-fMRI datasets. Oral presentations at 19th Annual Meeting of the Organization for
+Human Brain Mapping, Seattle, USA.
+
+Publications
+Selected articles:
+✧ Zhang Y*, Fan L, Hao Y, Dagher A, Jiang T, Bellec P. (2025). Connectome-constrained neural decoding
+reveals a representational hierarchy from perception to cognition to action. Science Bulletin 2025. 70(4): 478482. (JCR Q1, IF=18.8)
+✧ Yang D, Kim M, Zhang Y, and Wu G. (2025). Identifying Multilayer Network Hub by Graph Representation
+Learning. Medical Image Analysis 2025. 101: 103463, doi:10.1016/j.media.2025.103463
+✧ Li D, Wang Y, Ma L, Wang Y, Cheng L, Liu Y, Zhang Y and others. (2025). Topographic Axes of Wiring
+Space Converge to Genetic Topography in Shaping the Human Cortical Layout. Journal of Neuroscience 2025,
+45 (7). doi:10.1523/JNEUROSCI.1510-24.2024
+✧ Ma L#, Zhang Y#, Zhang H, et al. (2024). BAI-Net: Individualized Anatomical Cerebral Cartography Using
+Graph Neural Network. IEEE Transactions on Neural Networks and Learning Systems 2024. 35(6): 7446-7457.
+(JCR Q1, IF=14.2, co-first)
+✧ Zhao B, Ren Y, Sheng Y, Liu S, Zhang J, Zhang S, Zhang Y*, Xiao-Yong Zhang*. (2024). Lesion-Aware
+Supervised Contrastive Learning for Patient-Level Classification of
+
+Brainstem and Cerebellar
+
+Hemangioblastomas. The IEEE International Symposium on Biomedical Imaging (ISBI). Oral
+✧ Zhang J, Dai J, Wang Z, Liu S, Qian H, Zhao B, Zhang Y*. (2024). Individualized brain parcellation using
+multimodal fusion and graph convolution networks. IEEE International Symposium on Biomedical Imaging
+(ISBI). Athens, Greece. (EI)
+✧ Li S, Zhang H, Liang X, Zhang Y*, Jiang T*. (2024). Map-like Representations of Lexical Features during
+Movie Watching. 2024 Conference on Cognitive Computational Neuroscience (CCN), Boston, US.
+✧ Zhang H, Li S, Zhang C, Sun C, Hao Y, Zhang Y*. (2024). Modulating Hippocampal Activity and Connectivity
+with HRV Biofeedback: Interplay between Emotion Regulation and Memory Control. 2024 Conference on Cognitive
+Computational Neuroscience (CCN), Boston, US.
+
+✧ Zhang Y#, Zhang Y#, Chengjie Mao, Zhen Jiang, Guohua Fan, Erlei Wang, Yifan Chen, Lena Palaniyappan.
+(2023). Association of cortical gyrification changes with imaging and serum biomarkers in patients with
+Parkinson disease. Neurology 2023;101(3):e311-e323. (JCR Q1, IF=12.2, co-first)
+✧ Zhang H, Feng Z, Zang Y, Zhang Y*. (2023). Hemispheric lateralization and top-down regulation of the
+prefrontal cortex on sequential memory of familiar faces. Annual International Conference of the IEEE
+Engineering in Medicine & Biology Society (EMBC). Sydney, Australia. (EI, Oral)
+✧ Sun C, Xu H, Zhang Y, Zhang Y*. (2023). A reliable subtyping of de novo Parkinson disease: biomarkers,
+medication effects and longitudinal progression. Annual International Conference of the IEEE Engineering in
+Yu Zhang, Ph.D.
+
+CV - Page 4
+
+Medicine & Biology Society (EMBC). Sydney, Australia. (EI, Oral)
+✧ Liu S, Cheng L, Zhang Y*, Jiang T*. (2023). Fast and Adaptive Construction of Gyral Morphological
+Networks Based on Morphometric Features of Cortical Surface. Annual International Conference of the IEEE
+Engineering in Medicine & Biology Society (EMBC). Sydney, Australia. (EI, Oral)
+✧ Zhao B, Song M, Liu S, Sun L, Jiang W, Qian H, Zhang X, Zhang Y*, Jiang T*. (2023). MosaicNet: A deeplearning-based multi-tile biomedical image stitching method. Annual International Conference of the IEEE
+Engineering in Medicine & Biology Society (EMBC). Sydney, Australia. (EI, Oral)
+✧ Zhang Y*, Farrugia N and Bellec P. (2022). Deep learning models of cognitive processes constrained by
+human
+
+brain
+
+connectomes.
+
+Medical
+
+Image
+
+Analysis
+
+80
+
+(August):
+
+102507.
+
+https://doi.org/10.1016/j.media.2022.102507 (JCR Q1, IF=13.8)
+
+✧ Qiu W, Ma L, Jiang T, Zhang Y.*, (2022). Unrevealing Reliable Cortical Parcellation of Individual Brains
+Using Resting-State Functional Magnetic Resonance Imaging and Masked Graph Convolutions. Frontiers in
+Neuroscience 16. (JCR Q2, IF=5.15)
+✧ Wu, Y.-Y., Hu, Y.-S., Wang, J., Zang, Y.-F.*, Zhang, Y.*, (2022). Toward Precise Localization of Abnormal
+Brain Activity: 1D CNN on Single Voxel fMRI Time-Series. Frontiers in Computational Neuroscience 16. (JCR
+Q2, IF=3.38)
+
+✧ Wang W, Zhang J, Zhao Y, Hua T, Tang G, Li J, Zhang Y*. (2022). A new approach for in-vivo liver CEST
+imaging. 2022 In Proceedings of the 31st Annual Meeting of the International Society for Magnetic Resonance
+in Medicine (ISMRM). London. England. UK.
+✧ Wang, Y., Chai, L., Chu, C., Li, D., Gao, C., Wu, X., Yang, Z., Zhang, Y., Xu, J., Nyengaard, J.R., Eickhoff,
+S.B., Liu, B., Madsen, K.H., Jiang, T., Fan, L., (2022). Uncovering the genetic profiles underlying the intrinsic
+organization of the human cerebellum. Mol Psychiatry 27, 2619–2634. https://doi.org/10.1038/s41380-02201489-8 (JCR Q1, IF= 15.99)
+✧ Zhang Y*, Tetrel L, Thirion B, and Bellec P. (2021). Functional Annotation of Human Cognitive States Using
+Deep Graph Convolution. NeuroImage 231 (May): 117847 https://doi.org/10.1016/j.neuroimage.2021.117847​
+(JCR Q1, IF=7.4)
+
+✧ Boukhdhir A, Zhang Y, Mignotte M, Bellec P. (2020). Unraveling reproducible dynamic states of individual
+brain functional parcellation. Network Neuroscience. https://doi.org/10.1162/netn_a_00168 (JCR Q2, IF=4.98)
+✧ Zhang Y, and Bellec P. (2019) Functional Annotation of Human Cognitive States using Graph Convolution
+Networks. 2019 Conference on Neural Information Processing Systems (NeurIPS) Neuro-AI workshop - Real
+Neurons & Hidden Units, Vancouver, Canada. PDF(EI, Oral)
+✧ Zhang Y, Bellec P. (2019). Functional Decoding using Convolutional Networks on Brain Graphs. 2019
+Conference on Cognitive Computational Neuroscience (CCN2019), Berlin, Germany. (Oral)
+✧ Zhang Y, Tetrel L, Bellec P. (2019). “Benchmarking CPU vs GPU training of deep artificial neural networks
+for decoding brain activity”. 2019 Montreal AI & Neuroscience (MAIN2019), Montreal, Canada. (Oral)
+✧ Zheng Y, Zhang Y, Yau Y, Zeighami Y, Larcher K, Misic B, and Dagher A. (2019). Local Vulnerability and
+Global Connectivity Jointly Shape Neurodegenerative Disease Propagation. PLoS Biology 17 (11): e3000495.
+Yu Zhang, Ph.D.
+
+CV - Page 5
+
+https://doi.org/10.1371/journal.pbio.3000495 (JCR Q1, IF=9.593)
+✧ Vosberg D, Beaulé V, Berrío A, Cooke D, Chalupa A,..., Zhang Y, et al. (2019). Neural function in DCC
+mutation carriers with and without mirror movements. Annals of neurology 85 (3), 433-442.
+https://doi.org/10.1002/ana.25418 (JCR Q1, IF=11.274)
+✧ Sharkey R, Bourque J, Larcher K, Misic B, Zhang Y, et al. (2019). Mesolimbic Connectivity Signatures of
+Impulsivity
+
+and
+
+BMI
+
+in
+
+Early
+
+Adolescence.
+
+Appetite
+
+132
+
+(January):
+
+25
+
+–
+
+36.
+
+https://doi.org/10.1016/j.appet.2018.09.019 (JCR Q2, IF=5.016)
+✧ Vosberg DE#, Zhang Y#, Menegaux A, …Leyton M (2018) Mesocorticolimbic Connectivity and Volumetric
+Alterations
+
+in
+
+DCC
+
+Mutation
+
+Carriers.
+
+The
+
+Journal
+
+of
+
+Neuroscience
+
+38
+
+(20):
+
+4655–65.
+
+https://doi.org/10.1523/JNEUROSCI.3251-17.2018 (JCR Q1, IF=6.709, co-first)
+
+✧ Vainik U, Baker T, Dadar M, Zeighami Y, Michaud A, Zhang Y, et al., Dagher A. (2018). Neurobehavioral
+Correlates of Obesity Are Largely Heritable. Proceedings of the National Academy of Sciences of the United
+States of America (PNAS) 115 (37): 9312–17. https://doi.org/10.1073/pnas.1718206115 (JCR Q1, IF=12.78)
+✧ Zhang Y, Larcher K, Misic B, Dagher A. (2017). Anatomical and Functional Organization of the Human
+Substantia Nigra and Its Connections. eLife 2017;6:e26653 DOI: 10.7554/eLife.26653 (JCR Q1, IF=8.713)
+✧ Zhang Y, Fan L, Caspers S, Heim S, Song M, Liu C, Mo Y, Eickhoff SB, Amunts K, Jiang T. (2017) Crosscultural consistency and diversity in intrinsic functional organization of Broca's Region. NeuroImage 150
+(April): 177–90. https://doi.org/10.1016/j.neuroimage.2017.02.042 (JCR Q1, IF=7.4)
+✧ Baker T, Lesperance P, Tucholka A,...Zhang Y, Didier J, Conrod P. (2017). Reversing the Atypical Valuation
+of Drug and Nondrug Rewards in Smokers Using Multimodal Neuroimaging. Biol Psychiatry 82(11):819-827.
+https://doi.org/10.1016/j.biopsych.2017.01.015 (JCR Q1, IF=12.81)
+✧ Meng X, Jiang R, Lin D, Bustillo J, Jones T, Chen J, Yu Q, Du Y, Zhang Y…Calhoun, VD. (2017).
+Predicting individualized clinical measures by a generalized prediction framework and multimodal fusion of
+MRI data. NeuroImage 145, Part B, 218–229. (JCR Q1, IF=7.4)
+✧ Li H, Fan L, Zhuo J, Wang J, Zhang Y, Yang Z, Jiang T. (2017). ATPP: A Pipeline for Automatic
+Tractography-Based Brain Parcellation. Front Neuroinform. doi: 10.3389/fninf.2017.00035.
+✧ Fan L, Li H, Zhuo J, Zhang Y, et al. Jiang T. (2016). The Human Brainnetome Atlas: A New Brain Atlas Based
+on Connectional Architecture. Cerebral Cortex 26 (8): 3508–26. https://doi.org/10.1093/cercor/bhw157 (JCR
+Q2, IF=4.861)
+✧ Zeighami Y, Ulla M, Iturria-Medina Y, Dadar M, Zhang Y, …Dagher A. (2015). Network structure of brain
+atrophy in de novo Parkinson's disease. Elife. doi: 10.7554/eLife.08440. (JCR Q1, IF=8.713)
+✧ Zhang Y, Caspers S, Fan L, Fan Y, Song M, Liu C, ... Jiang T. (2015). Robust brain parcellation using sparse
+representation on resting-state fMRI. Brain Struct Funct. 220(6): 3565-79. https://doi.org/10.1007/s00429-0140874-x (JCR Q2, IF=3.748)
+
+✧ Zhang, Y., Fan, L., Yu, C., & Jiang, T. (2014). Anatomical parcellation of human brain using structural
+covariance. IEEE International Symposium on Biomedical Imaging 2014 (ISBI’14). (EI)
+✧ Fan L, Wang J, Zhang Y, Han W, Yu C, & Jiang T. (2014). Connectivity-based parcellation of the human
+Yu Zhang, Ph.D.
+
+CV - Page 6
+
+temporal pole using diffusion tensor imaging. Cereb Cortex, 24(12), 3365-3378.
+✧ Zhang Y, Fan L, Zhang Y, Wang J, Zhu M, . . . Jiang T. (2014). Connectivity-based parcellation of the human
+posteromedial cortex. Cereb Cortex, 24(3), 719-727.
+✧ Wang J, Fan L, Zhang Y, Liu Y, Jiang D, . . . Jiang T. (2012). Tractography-based parcellation of the human
+left inferior parietal lobule. Neuroimage, 63(2), 641-652.
+
+Note:
+Dr. Zhang has published 20+ first-author or corresponding-author papers, including 10 papers in JCR Q1 and 12
+conference papers (6 Orals). These articles were published in top neuroscience and neuroimaging journals, including Science
+Bulletin (JCR Q1, IF=18.8), Neurology (JCR Q1, IF=12.2), Medical image analysis (JCR Q1, IF=13.8), Elife (JCR Q1,
+IF=8.713), Prog Neurobiol (JCR Q1, IF=10.8), Journal of Neuroscience (JCR Q1, IF=6.709), Neuroimage (JCR Q1,
+IF=7.4), IEEE TNNLS (JCR Q1, IF=14.2), and other well-recognized journals.
+
+Yu Zhang, Ph.D.
+
+CV - Page 7
+
+

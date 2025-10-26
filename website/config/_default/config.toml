@@ -1,0 +1,5 @@
+baseURL = "https://autobrainlab.github.io/yuzhang-lab-website/"
+languageCode = "en-us"
+title = "Yuzhang Neuro+AI Lab"
+theme = "hugo-blox-builder"
+DefaultContentLanguage = "en"
