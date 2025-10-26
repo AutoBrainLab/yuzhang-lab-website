@@ -2,47 +2,40 @@
 mainSections = ["home", "research", "people", "publications", "resources", "join-us"]
 
 # Appearance
-appearance = {
-  theme = "minimal",
-  font = "classic",
-  font_size = "L"
-}
+[appearance]
+theme = "minimal"
+font = "classic"
+font_size = "L"
 
 # Layout
-header = {
-  navbar = {
-    enable = true,
-    show_search = true,
-    show_language = false,
-    show_day_night = true,
-    show_logo = true,
-    highlight_active_link = true,
-    height = 70
-  }
-}
+[header.navbar]
+enable = true
+show_search = true
+show_language = false
+show_day_night = true
+show_logo = true
+highlight_active_link = true
+height = 70
 
 # Page features
-features = {
-  syntax_highlighter = {
-    enable = true,
-    theme = "github-light"
-  },
-  math = {
-    enable = true
-  },
-  privacy_pack = {
-    enable = false
-  },
-  repository = {
-    url = "https://github.com/AutoBrainLab/yuzhang-lab-website",
-    content_dir = "content",
-    branch = "main"
-  },
-  avatar = {
-    gravatar = false,
-    shape = "circle"
-  }
-}
+[features.syntax_highlighter]
+enable = true
+theme = "github-light"
+
+[features.math]
+enable = true
+
+[features.privacy_pack]
+enable = false
+
+[features.repository]
+url = "https://github.com/AutoBrainLab/yuzhang-lab-website"
+content_dir = "content"
+branch = "main"
+
+[features.avatar]
+gravatar = false
+shape = "circle"
 
 # Site style
 site_type = "Organization"
@@ -50,10 +43,7 @@ local_business_type = "Research Institute"
 description = "Research Laboratory at the intersection of Neuroscience and Artificial Intelligence"
 
 # SEO
-marketing = {
-  seo = {
-    site_type = "Organization"
-    local_business_type = "Research Institute"
-    org_name = "Yuzhang Neuro+AI Lab"
-  }
-}
+[marketing.seo]
+site_type = "Organization"
+local_business_type = "Research Institute"
+org_name = "Yuzhang Neuro+AI Lab"
