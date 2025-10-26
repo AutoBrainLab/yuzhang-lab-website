@@ -1,0 +1,20 @@
+# 多语言配置
+# Hugo Multilingual Configuration
+
+[en]
+  languageCode = "en-us"
+  languageName = "English"
+  weight = 1
+  title = "Yuzhang Neuro+AI Lab"
+  
+  [en.params]
+    description = "Reverse-engineering intelligent algorithms, fostering global talent, and advancing NeuroAI frontiers."
+
+[zh]
+  languageCode = "zh-cn"
+  languageName = "中文"
+  weight = 2
+  title = "张瑜 脑图谱与类脑智能实验室"
+  
+  [zh.params]
+    description = "全生命周期人脑图谱绘制、脑图谱大数据分析与建模、脑科学与人工智能交叉研究。"

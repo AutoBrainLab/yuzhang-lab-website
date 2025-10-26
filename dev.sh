@@ -20,5 +20,8 @@ echo "================================================"
 echo ""
 
 # 启动Hugo开发服务器
-hugo server -D --verbose
+# -D: 包含草稿内容
+# --bind 0.0.0.0: 允许外部访问（如果需要）
+# --disableFastRender: 完整重新渲染（更可靠）
+hugo server -D
 
