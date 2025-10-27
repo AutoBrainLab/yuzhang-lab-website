@@ -11,8 +11,8 @@ font_size = "L"
 [header.navbar]
 enable = true
 show_search = true
-show_language = true  # 启用语言切换器
-show_day_night = true
+show_translations = true  # 启用语言切换器（修正参数名）
+show_theme_chooser = true  # 启用主题切换器
 show_logo = true
 highlight_active_link = true
 height = 70

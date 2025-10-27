@@ -1,0 +1,4 @@
+# Production environment configuration
+# This file is used when HUGO_ENVIRONMENT=production
+
+baseURL: 'https://autobrainlab.github.io/yuzhang-lab-website/'

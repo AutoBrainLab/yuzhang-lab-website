@@ -1,5 +1,4 @@
 baseURL = "https://autobrainlab.github.io/yuzhang-lab-website/"
 languageCode = "en-us"
 title = "Yu Zhang Lab - Brain Atlas and Brain-Inspired AI"
-theme = "hugo-blox-builder"
 DefaultContentLanguage = "en"

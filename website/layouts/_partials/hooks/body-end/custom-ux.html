@@ -1,0 +1,39 @@
+{{/* Simple inline back to top button */}}
+<button id="back-to-top" aria-label="返回顶部" title="Back to top" style="position:fixed;bottom:30px;right:30px;width:50px;height:50px;border-radius:50%;background-color:#007bff;color:white;border:none;cursor:pointer;opacity:0;visibility:hidden;transition:all 0.3s ease;box-shadow:0 4px 12px rgba(0,123,255,0.4);z-index:1000;display:flex;align-items:center;justify-content:center;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="18 15 12 9 6 15"></polyline>
+  </svg>
+</button>
+
+<script>
+(function() {
+  const btn = document.getElementById('back-to-top');
+  if (!btn) return;
+  
+  window.addEventListener('scroll', function() {
+    if (window.pageYOffset > 300) {
+      btn.style.opacity = '1';
+      btn.style.visibility = 'visible';
+    } else {
+      btn.style.opacity = '0';
+      btn.style.visibility = 'hidden';
+    }
+  });
+  
+  btn.addEventListener('click', function() {
+    window.scrollTo({top: 0, behavior: 'smooth'});
+  });
+  
+  btn.addEventListener('mouseenter', function() {
+    this.style.backgroundColor = '#0056b3';
+    this.style.transform = 'translateY(-5px)';
+    this.style.boxShadow = '0 6px 16px rgba(0,123,255,0.6)';
+  });
+  
+  btn.addEventListener('mouseleave', function() {
+    this.style.backgroundColor = '#007bff';
+    this.style.transform = 'translateY(0)';
+    this.style.boxShadow = '0 4px 12px rgba(0,123,255,0.4)';
+  });
+})();
+</script>
