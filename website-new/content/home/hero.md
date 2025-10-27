@@ -12,12 +12,12 @@ design:
   spacing:
     padding: ['100px', '0', '100px', '0']
 cta:
-  url: '/en/research'
+  url: 'research'
   label: 'Our Research'
   icon_pack: fas
   icon: microscope
 cta_alt:
-  url: '/en/join-us'
+  url: 'join-us'
   label: 'Join Our Team'
   icon_pack: fas
   icon: arrow-right
