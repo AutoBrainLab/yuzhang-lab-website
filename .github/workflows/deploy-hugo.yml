@@ -50,12 +50,22 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
       
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.21'
+      
       - name: Install Node.js dependencies
         run: |
           if [ -f website-new/package.json ]; then
             cd website-new
             npm ci
           fi
+      
+      - name: Install Hugo modules
+        run: |
+          cd website-new
+          hugo mod get
       
       - name: Build with Hugo
         env:
@@ -68,6 +78,29 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      
+      - name: Fix resource paths
+        run: |
+          cd website-new/public
+          # Copy CSS, JS, and media from /en/ to root for shared resources
+          if [ -d en/css ]; then cp -r en/css .; fi
+          if [ -d en/js ]; then cp -r en/js .; fi
+          if [ -d en/media ]; then cp -r en/media .; fi
+          if [ -d en/webfonts ]; then cp -r en/webfonts .; fi
+          if [ -d en/images ]; then cp -r en/images .; fi
+          echo "Resource directories copied to root"
+      
+      - name: Debug - List generated files
+        run: |
+          cd website-new
+          echo "=== Root CSS files ==="
+          find public -maxdepth 2 -name "*.css" | head -10 || echo "No CSS files found"
+          echo "=== Root JS files ==="
+          find public -maxdepth 2 -name "*.js" | head -10 || echo "No JS files found"
+          echo "=== Root media files ==="
+          ls -la public/media/ 2>/dev/null | head -10 || echo "No media directory"
+          echo "=== Directory structure ==="
+          ls -la public/ | head -20
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
