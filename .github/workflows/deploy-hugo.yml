@@ -79,7 +79,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       
-      - name: Fix resource paths
+      - name: Fix resource paths and root index
         run: |
           cd website-new/public
           # Copy CSS, JS, and media from /en/ to root for shared resources
@@ -89,6 +89,11 @@ jobs:
           if [ -d en/webfonts ]; then cp -r en/webfonts .; fi
           if [ -d en/images ]; then cp -r en/images .; fi
           echo "Resource directories copied to root"
+          # Copy root index.html from static folder (Hugo doesn't copy it when defaultContentLanguageInSubdir is true)
+          if [ -f ../static/index.html ]; then
+            cp ../static/index.html .
+            echo "Root index.html copied"
+          fi
       
       - name: Debug - List generated files
         run: |
