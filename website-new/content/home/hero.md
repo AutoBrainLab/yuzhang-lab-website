@@ -12,17 +12,15 @@ design:
   spacing:
     padding: ['100px', '0', '100px', '0']
 cta:
-  url: '/research'
-  label: Explore Research
+  url: '/en/research'
+  label: 'Our Research'
   icon_pack: fas
   icon: microscope
 cta_alt:
-  url: '/join-us'
-  label: Join Us
+  url: '/en/join-us'
+  label: 'Join Our Team'
   icon_pack: fas
-  icon: users
+  icon: arrow-right
 ---
 
 **Mapping the Brain. Building Intelligence.**
-
-Leading neuroscience lab at Shanghai Jiao Tong University.
